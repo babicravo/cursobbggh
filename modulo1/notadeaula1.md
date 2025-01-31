@@ -2,4 +2,6 @@
 
 ### configuração do git
 
+### comandos 
+### git add
 ### git commit 
